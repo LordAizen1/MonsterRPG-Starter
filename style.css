@@ -1,5 +1,9 @@
 body {
-  background-color: darkblue;
+  background-image: url("https://cdn1.epicgames.com/ue/product/Screenshot/p1-1920x1080-5c1e893db8029c458e1166174944ea47.jpg?resize=1&w=1920");
+  /*background-size: cover;
+  background-position: center;*/
+  background-repeat: no-repeat;
+  margin: 0;
 }
 
 #text {
